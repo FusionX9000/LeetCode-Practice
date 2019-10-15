@@ -1,0 +1,11 @@
+Q21 - Do the variation with DP (bottom-up and top-down, see leetcode)
+Q32 - Approach 4
+Q10 - Bottom Up DP do
+Q146 - optimize
+
+Q79 - weird error
+
+problems to do:
+unival tree
+decode ways in o(1) space
+phone number combination iteratively and figure why MLE
